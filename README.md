@@ -43,7 +43,7 @@ Drag the `site/` folder into Netlify/Vercel/Cloudflare Pages, or any static host
 - Instagram link points to `@bynnscanada`.
 
 > Imagery is carried over from the original bynns.ca. The two hero/atmosphere sandwich photos
-> (`hero-caprese.jpg` = realistic caprese close-up, `atmos-wide.jpg` = loaded sub) are the **real Bynns photos,
+> (`hero-caprese.jpg` = styled Pinterest-look caprese, `atmos-wide.jpg` = loaded sub) are the **real Bynns photos,
 > AI-retouched** — same sandwich, same ingredients, relit into natural, appetizing food photography (grounded
 > in the real source image; no invented food). Untouched originals are kept alongside (`food-hero-web.jpg`,
 > `food-2-web.jpg`).
