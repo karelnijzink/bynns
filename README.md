@@ -42,8 +42,9 @@ Drag the `site/` folder into Netlify/Vercel/Cloudflare Pages, or any static host
 - Google rating (4.4) is a snapshot — update or remove as it changes.
 - Instagram link points to `@bynnscanada`.
 
-> All imagery is carried over from the original bynns.ca — real photos and logos only. The full-width
-> atmosphere band reuses the second original food photo (`food-2-web.jpg`).
+> Imagery is carried over from the original bynns.ca — real photos and logos. The full-width atmosphere band
+> (`atmos-wide.jpg`) is the real second sub photo, realistically **outpainted** to 16:9 (the actual photo,
+> its blurred background extended — no invented food). Any AI use here is grounded in the real source image.
 
 ## Booking CTA
 The footer includes a "Book a 30-minute call" button linking to
