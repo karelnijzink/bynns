@@ -41,8 +41,9 @@ Drag the `site/` folder into Netlify/Vercel/Cloudflare Pages, or any static host
 - **"Since 2024"** is inferred from the Instagram launch — confirm the real opening year.
 - Google rating (4.4) is a snapshot — update or remove as it changes.
 - Instagram link points to `@bynnscanada`.
-- **`gen-counter.jpg` and `gen-latte.jpg` are AI-generated atmosphere placeholders** (Higgsfield), not photos of
-  the real shop. Swap them for real photography of Bynns before a final public launch.
+
+> All imagery is carried over from the original bynns.ca — real photos and logos only. The full-width
+> atmosphere band reuses the second original food photo (`food-2-web.jpg`).
 
 ## Booking CTA
 The footer includes a "Book a 30-minute call" button linking to

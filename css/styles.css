@@ -287,14 +287,8 @@ section { position: relative; }
 }
 
 /* ---------- Coffee feature band ---------- */
-.coffee__photo {
-  margin-top: 26px; width: 100%; max-width: 420px;
-  border: 3px solid #000; border-radius: var(--radius);
-  box-shadow: 8px 8px 0 rgba(0,0,0,.35);
-  transform: rotate(-1.2deg);
-}
 .coffee { background: var(--navy); color: var(--cream); border-block: 3px solid var(--navy); }
-.coffee__grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px,5vw,64px); align-items: start; }
+.coffee__grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px,5vw,64px); align-items: center; }
 .coffee .eyebrow { color: var(--gold); }
 .coffee .eyebrow::before { background: var(--gold); }
 .coffee h2 { font-size: clamp(2.1rem, 5vw, 3.4rem); text-transform: uppercase; color: #fff; margin: 12px 0 0; }
