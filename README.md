@@ -41,3 +41,12 @@ Drag the `site/` folder into Netlify/Vercel/Cloudflare Pages, or any static host
 - **"Since 2024"** is inferred from the Instagram launch — confirm the real opening year.
 - Google rating (4.4) is a snapshot — update or remove as it changes.
 - Instagram link points to `@bynnscanada`.
+- **`gen-counter.jpg` and `gen-latte.jpg` are AI-generated atmosphere placeholders** (Higgsfield), not photos of
+  the real shop. Swap them for real photography of Bynns before a final public launch.
+
+## Booking CTA
+The footer includes a "Book a 30-minute call" button linking to
+`https://cal.com/karel-nijzink/30min?overlayCalendar=true`.
+
+## Live
+Published via GitHub Pages: **https://karelnijzink.github.io/bynns/** — repo `karelnijzink/bynns`.

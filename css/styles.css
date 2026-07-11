@@ -271,9 +271,30 @@ section { position: relative; }
 .menu__sizehead { display: grid; grid-template-columns: 1fr auto; margin-bottom: 4px; }
 .menu__sizehead span { font-family: var(--mono); font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: var(--ink-soft); }
 
+/* ---------- Atmosphere band ---------- */
+.atmos { position: relative; border-block: 3px solid var(--navy); overflow: hidden; }
+.atmos img { width: 100%; height: clamp(300px, 42vw, 520px); object-fit: cover; display: block; }
+.atmos__overlay {
+  position: absolute; inset: 0; display: flex; align-items: flex-end;
+  padding: clamp(28px, 5vw, 60px);
+  background: linear-gradient(to top, rgba(14,26,56,.72) 0%, rgba(14,26,56,.18) 45%, rgba(14,26,56,0) 75%);
+}
+.atmos__line {
+  font-family: var(--display); font-weight: 800; text-transform: uppercase;
+  font-size: clamp(1.6rem, 4.2vw, 3rem); line-height: 1.02; letter-spacing: -.02em;
+  color: #fff; margin: 0; max-width: 20ch;
+  text-shadow: 0 2px 20px rgba(14,26,56,.5);
+}
+
 /* ---------- Coffee feature band ---------- */
+.coffee__photo {
+  margin-top: 26px; width: 100%; max-width: 420px;
+  border: 3px solid #000; border-radius: var(--radius);
+  box-shadow: 8px 8px 0 rgba(0,0,0,.35);
+  transform: rotate(-1.2deg);
+}
 .coffee { background: var(--navy); color: var(--cream); border-block: 3px solid var(--navy); }
-.coffee__grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px,5vw,64px); align-items: center; }
+.coffee__grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px,5vw,64px); align-items: start; }
 .coffee .eyebrow { color: var(--gold); }
 .coffee .eyebrow::before { background: var(--gold); }
 .coffee h2 { font-size: clamp(2.1rem, 5vw, 3.4rem); text-transform: uppercase; color: #fff; margin: 12px 0 0; }
